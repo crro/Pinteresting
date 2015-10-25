@@ -44,6 +44,7 @@ group :development, :test do
   gem 'sqlite3'
 end
 
+#We add this for Heroku
 group :production do
   gem 'pg'
   gem 'rails_12factor'
