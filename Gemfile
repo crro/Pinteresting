@@ -31,6 +31,8 @@ gem 'devise', '~> 3.5.2'
 #We use paperclip for images
 gem 'paperclip', '~> 4.2'
 
+#Saving images in s3
+gem 'aws-sdk', '< 2.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
