@@ -28,6 +28,9 @@ gem 'bootstrap-sass'
 #We use devise for user authentication
 gem 'devise', '~> 3.5.2'
 
+#We use paperclip for images
+gem 'paperclip', '~> 4.2'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
